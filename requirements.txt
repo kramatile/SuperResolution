@@ -1,0 +1,10 @@
+pytorch_msssim
+kagglehub
+pandas
+numpy
+scickit-learn
+matplotlib
+torchmetrics
+torch
+pillow
+torchvision
